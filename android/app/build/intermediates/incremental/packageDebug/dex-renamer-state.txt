@@ -1,0 +1,4 @@
+#Wed Dec 13 12:28:53 CET 2017
+base.0=/home/scerreto-wellnet/Documenti/lavoro/Personale/app/RoutingApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/scerreto-wellnet/Documenti/lavoro/Personale/app/RoutingApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
